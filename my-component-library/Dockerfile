@@ -1,3 +1,8 @@
+# Assignment 12 - UI Garden
+# Build:  docker build -t adeyemi_olukayode_ui_garden .
+# Run:    docker run -d --name adeyemi_olukayode_coding_assignment12 -p 8083:8083 adeyemi_olukayode_ui_garden
+# Site:   http://localhost:8083   (working dir: /adeyemi_olukayode_ui_garden)
+
 # ==========================================
 # Stage 1: Build the Production Application
 # ==========================================
